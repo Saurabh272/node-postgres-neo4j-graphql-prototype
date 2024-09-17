@@ -1,0 +1,13 @@
+{
+  "users": [
+    {"id": "1", "name": "John Doe", "email": "john@example.com"},
+    {"id": "2", "name": "Jane Smith", "email": "jane@example.com"},
+    {"id": "3", "name": "Bob Johnson", "email": "bob@example.com"}
+  ],
+  "posts": [
+    {"id": "1", "title": "First Post", "content": "This is the first post.", "userId": "1"},
+    {"id": "2", "title": "Hello World", "content": "Hello to everyone!", "userId": "2"},
+    {"id": "3", "title": "GraphQL is awesome", "content": "Let's learn about GraphQL.", "userId": "1"},
+    {"id": "4", "title": "Node.js and databases", "content": "Working with PostgreSQL and Neo4j.", "userId": "3"}
+  ]
+}
